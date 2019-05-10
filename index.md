@@ -5,13 +5,27 @@
 layout: home
 ---
 <h1>James CB Pyle</h1>
-<p>I am James Pyle, a postgraduate researcher (PhD student) in the <a href="https://www.shef.ac.uk/dcs/research/groups/visual-computing" style="color:blue">Visual Computing research group</a> of the <a href="https://www.shef.ac.uk/dcs/" style="color:blue">Computer Science department</a> at <a href="https://www.shef.ac.uk/" style="color:blue">The University of Sheffield</a>, UK.</p>
-<p>I recieved a first class MCOMP degree from the university of Sheiffield after a 4 year undergraduate cousrse at the University of Sheffield between 2013-2017.</p>
-<p>Research currently being undertaken as part of my PhD work focuses on the combined application of machine learning surrogate models, predictors, and search techniques to complex systems modelling for the purposes of knowledge discovery and increased prediction accuracy</p>
+<p>I am James Pyle, a postgraduate researcher (PhD student) in the <a href="https://www.shef.ac.uk/dcs/research/groups/visual-computing" style="color:blue">Visual Computing research group</a> of the <a href="https://www.shef.ac.uk/dcs/" style="color:blue">Computer Science department</a> at <a href="https://www.shef.ac.uk/" style="color:blue">The University of Sheffield</a>, UK. I am under the supervision of <a href="http://paulrichmond.shef.ac.uk/">Dr. Paul Richmond</a> and <a href="http://mkchimeh.staff.shef.ac.uk/">Dr. Mozhgan Kabiri Chimeh</a>.</p>
+<p>I recieved a first class Master of Computing (MCOMP) degree from The University of Sheffield after a 4 year undergraduate course between 2013-2017.</p>
+<p>Research currently being undertaken as part of my PhD work focuses on the combined application of machine learning surrogate models, predictors, and search techniques to complex systems modelling for the purposes of knowledge discovery and increased prediction accuracy.</p>
 
 <h2>Publications, Talks and Posters</h2>
 <b>2019</b>
-
+<ul>
+	<li>
+		<b>Publication</b>
+		<h4>"Surrogate Modelling for Efficient Discovery of Emergent Population Dynamics"</h4>
+		<h5><i>James Pyle, Mozhgan Kabiri Chimeh, Paul Richmond</i></h5>
+		<p><a href="http://hpcs2019.cisedu.info/">The 17th International Conference on High Performance Computing & Simulation (HPCS 2019)</a></p>
+		<p><a href="http://hpcs2019.cisedu.info/2-conference/workshops/workshop07-pacos">International Workshop on the Synergy of Parallel Computing, Optimization and Simulation (PaCOS 2019)</a>. To be published</p>
+	</li>
+	<li>
+		<b>Talk</b>
+		<h4>"HPC for Large Scale Data Generation in Complex Systems Modelling"</h4>
+		<h5><i>James Pyle, Mozhgan Kabiri Chimeh, Paul Richmond</i></h5>
+		<p><a href="https://sighpceducation.acm.org/events/HETET19.html">Workshop on HPC Education and Training for Emerging Technologies (HETET19)</a>. 20/06/2019</p>
+	</li>
+</ul>
 
 <h2>Demonstrating</h2>
 <p>During my time as a PhD student I have had the opportunity to demonstrate for undergraduate modules.</p>

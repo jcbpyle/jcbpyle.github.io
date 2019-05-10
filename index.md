@@ -14,7 +14,7 @@ layout: home
 
 
 <h2>Demonstrating</h2>
-During my time as a PhD student I have had the opportunity to demonstrate for undergraduate modules.
+<p>During my time as a PhD student I have had the opportunity to demonstrate for undergraduate modules.</p>
 <b>2018/2019</b>
 <ul>
 	<li><a href="http://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level1/com1009.html" style="color:blue">COM1009 Introduction to Algorithms and Data Structures</a></li>

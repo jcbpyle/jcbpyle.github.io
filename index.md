@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: James CB Pyle's Website
 ---
 <h1>James CB Pyle</h1>
 <p>I am James Pyle, a postgraduate researcher (PhD student) in the <a href="https://www.shef.ac.uk/dcs/research/groups/visual-computing" style="color:blue">Visual Computing research group</a> of the <a href="https://www.shef.ac.uk/dcs/" style="color:blue">Computer Science department</a> at <a href="https://www.shef.ac.uk/" style="color:blue">The University of Sheffield</a>, UK.</p>

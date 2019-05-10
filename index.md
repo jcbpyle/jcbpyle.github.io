@@ -40,8 +40,8 @@ layout: home
 </ul>
 <h2>Contact Information</h2>
 <ul>
-	<li><a href="mailto:jcbpyle1@sheffield.ac.uk" style="color:gray">jcbpyle1@sheffield.ac.uk</a></li>
-	<li><a href="https://github.com/jcbpyle" style="color:gray">https://github.com/jcbpyle</a></li>
+	<li><a href="mailto:jcbpyle1@sheffield.ac.uk">jcbpyle1@sheffield.ac.uk</a></li>
+	<li><a href="https://github.com/jcbpyle">https://github.com/jcbpyle</a></li>
 	<li>James Pyle, Department of Computer Science, The University of Sheffield, Regent Court, 211 Portobello, Sheffield, S1 4DP</li>
 </ul>
 <!--https://www.shef.ac.uk/dcs/research/groups/visual-computing-->
